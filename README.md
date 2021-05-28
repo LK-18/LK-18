@@ -9,10 +9,9 @@
 I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degree majoring in computer science from [Goverenment colleage of Technology](https://gct.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-likhitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likhit-kumar/)](https://www.linkedin.com/in/likhit-kumar/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-likzhit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/likzhit/)](https://www.instagram.com/likzhit/)
+[![Gmail Badge](https://img.shields.io/badge/-likhitkumar0618@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likhitkumar0618@gmail.com)](mailto:likhitkumar0618@gmail.com)
+<p align=left> <img src=https://komarev.com/ghpvc/?username=santosharron alt=santosharron /> </p>
 
 ## ⚡ Technologies
 
@@ -48,6 +47,6 @@ I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degre
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
 
 
